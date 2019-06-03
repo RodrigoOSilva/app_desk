@@ -1,0 +1,6 @@
+wer(1), Hardware(2), wef(3).wer(1), Hardware(2), wef(3).teste(1), Hardware(2), teste(3).teste(1), Hardware(2), teste(3).
+teste(1), Hardware(2), teste(3).
+TESTE (1), Criação Usuário(2), fhsudfhsdofsf(3).
+TESTE (1), Criação Usuário(2), fhsudfhsdofsf(3).
+telefone nao liga(1), Rede(2), nao liga(3).
+wer&Hardware&werwer
